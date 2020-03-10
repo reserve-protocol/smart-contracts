@@ -1,3 +1,10 @@
+# Reserve Fork
+
+This is the Reserve fork of the Kyber smart-contracts project, used to deploy RSR and RSV Automated Price Reserves. See `web3deployments/rsrReserve_input.json` and `web3deployments/rsvReserve_input.json`. 
+
+--------------------------------------------------------------------------------
+Begin Kyber README
+
 ## Introduction
 This repository contains kyber network smart contracts.
 For more details, please visit our [developer portal](https://developer.kyber.network/)
