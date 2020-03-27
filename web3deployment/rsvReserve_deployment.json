@@ -1,0 +1,43 @@
+{
+  "tokens": {
+    "RSV": {
+      "name": "Reserve",
+      "decimals": 18,
+      "address": "0x1C5857e110CD8411054660F60B5De6a6958CfAE2"
+    },
+    "ETH": {
+      "name": "Ethereum",
+      "decimals": 18,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
+  },
+  "exchanges": {
+    "wallets": {
+      "ETH": "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328",
+      "RSV": "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328"
+    }
+  },
+  "permission": {
+    "KyberReserve": {
+      "admin": "0xD4daFcfEb6a6f03B064968475C233De89671c678",
+      "operator": [
+        "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328"
+      ],
+      "alerter": [
+        "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328"
+      ]
+    },
+    "LiquidityConversionRates": {
+      "admin": "0xD4daFcfEb6a6f03B064968475C233De89671c678",
+      "operator": [
+        "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328"
+      ],
+      "alerter": [
+        "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328"
+      ]
+    }
+  },
+  "reserve": "0x141104687b51985D6210Eb4b398F1DC5b5b9e9F5",
+  "pricing": "0xE09674eFdbf14a74644f617A2F565B34e4a7bDD7",
+  "network": "0xafbf0d08269a7eee8d587121f3b0616c8cef5077"
+}
