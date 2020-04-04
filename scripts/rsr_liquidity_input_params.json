@@ -1,12 +1,12 @@
 {
-  "liquidity_rate": 0.138629,
-  "initial_ether_amount": 5,
-  "initial_token_amount": 275633,
-  "initial_price":  0.00001814,
+  "liquidity_rate": 0.00990210,
+  "initial_ether_amount": 70,
+  "initial_token_amount": 4079084,
+  "initial_price":  0.00001716071549,
   "min_supported_price_factor": 0.5,
   "max_supported_price_factor" : 2.0,
-  "max_tx_buy_amount_eth": 1,
-  "max_tx_sell_amount_eth": 1,
+  "max_tx_buy_amount_eth": 10,
+  "max_tx_sell_amount_eth": 10,
   "fee_percent": 0.25,
   "formula_precision_bits": 40
 }

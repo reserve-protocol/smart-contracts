@@ -19,7 +19,7 @@
   },
   "permission": {
     "KyberReserve": {
-      "admin": "0xD4daFcfEb6a6f03B064968475C233De89671c678",
+      "admin": "0x4769cd9A52bDCE19bc63aC97F4845A087483e6cC",
       "operator": [
         "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328"
       ],
@@ -28,7 +28,7 @@
       ]
     },
     "LiquidityConversionRates": {
-      "admin": "0xD4daFcfEb6a6f03B064968475C233De89671c678",
+      "admin": "0x4769cd9A52bDCE19bc63aC97F4845A087483e6cC",
       "operator": [
         "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328"
       ],
