@@ -1,9 +1,8 @@
-Warning! min_calculated_price_factor 0.5000000902799807 > configured min_supported_price_factor 0.5
-_rInFp: 10887474089
-_pMinInFp: 4120666771
+_rInFp: 12493860577
+_pMinInFp: 3591635926
 _numFpBits: 40
 _maxCapBuyInWei: 10000000000000000000
 _maxCapSellInWei: 10000000000000000000
 _feeInBps: 25
-_maxTokenToEthRateInPrecision: 14990898384000000
-_minTokenToEthRateInPrecision: 3747724596000000
+_maxTokenToEthRateInPrecision: 13066295384000000
+_minTokenToEthRateInPrecision: 3266573846000000
