@@ -5,3 +5,4 @@ maxCapBuyInWei: 10000000000000000000
 maxCapSellInWei: 10000000000000000000
 feeInBps: 25
 maxTokenToEthRateInPrecision: 13066295384000000
+minTokenToEthRateInPrecision: 3266573846000000
