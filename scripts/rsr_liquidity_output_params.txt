@@ -1,8 +1,7 @@
-rInFp: 10896160231
-pMinInFp: 10362899
-numFpBits: 40
-maxCapBuyInWei: 10000000000000000000
-maxCapSellInWei: 10000000000000000000
-feeInBps: 25
-maxTokenToEthRateInPrecision: 37700008640000
-minTokenToEthRateInPrecision: 9425002160000
+_rInFp: 9028551770
+_pMinInFp: 11753779
+_numFpBits: 40
+_maxCapBuyInWei: 10000000000000000000
+_maxCapSellInWei: 10000000000000000000
+_feeInBps: 25
+_maxTokenToEthRateInPrecision: 42760000000000
