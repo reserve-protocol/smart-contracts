@@ -26,7 +26,8 @@
       ],
       "alerter": [
         "0x6e5539c65E652e9C6c569eCb17EB4d712A76E328",
-        "0xf0757758f974769dA7f5257ce8EceaC274256da0"
+        "0xf0757758f974769dA7f5257ce8EceaC274256da0",
+        "0x4769cd9A52bDCE19bc63aC97F4845A087483e6cC"
       ]
     },
     "LiquidityConversionRates": {
