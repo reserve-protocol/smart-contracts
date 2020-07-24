@@ -3,7 +3,7 @@
     "RSV": {
       "name": "Reserve",
       "decimals": 18,
-      "address": "0x1C5857e110CD8411054660F60B5De6a6958CfAE2"
+      "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988"
     },
     "ETH": {
       "name": "Ethereum",
@@ -43,6 +43,6 @@
     }
   },
   "reserve": "0x141104687b51985D6210Eb4b398F1DC5b5b9e9F5",
-  "pricing": "0xE09674eFdbf14a74644f617A2F565B34e4a7bDD7",
-  "network": "0xafbf0d08269a7eee8d587121f3b0616c8cef5077"
+  "pricing": "0xe799d5fd3975ec56bfc3d2210050c0d853d89592",
+  "network": "0x7C66550C9c730B6fdd4C03bc2e73c5462c5F7ACC"
 }
