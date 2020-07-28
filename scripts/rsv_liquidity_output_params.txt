@@ -1,6 +1,6 @@
-Warning! min_calculated_price_factor 0.5000005402802646 > configured min_supported_price_factor 0.5
+Warning! min_calculated_price_factor 0.5000004652801892 > configured min_supported_price_factor 0.5
 Warning! max_calculated_price_factor is big and can not be calculated. initial_token_amount can be decreased to avoid this.
-_rInFp: 29887144968
+_rInFp: 20323262976
 _pMinInFp: 1705568249
 _numFpBits: 40
 _maxCapBuyInWei: 10000000000000000000
