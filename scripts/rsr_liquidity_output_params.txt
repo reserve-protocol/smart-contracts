@@ -1,9 +1,9 @@
-Warning! max_calculated_price_factor is big and can not be calculated. initial_token_amount can be decreased to avoid this.
-_rInFp: 5273587620
-_pMinInFp: 28774219
+Warning! min_calculated_price_factor 0.5000000040607162 > configured min_supported_price_factor 0.5
+_rInFp: 4468276167
+_pMinInFp: 15712021
 _numFpBits: 40
 _maxCapBuyInWei: 10000000000000000000
 _maxCapSellInWei: 10000000000000000000
 _feeInBps: 5
-_maxTokenToEthRateInPrecision: 104680000000000
-_minTokenToEthRateInPrecision: 26170000000000
+_maxTokenToEthRateInPrecision: 57160000000000
+_minTokenToEthRateInPrecision: 14290000000000
